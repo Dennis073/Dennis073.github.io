@@ -1,0 +1,36 @@
+body{
+  background-image: url("http://images-eds.xboxlive.com/image?url=8Oaj9Ryq1G1_p3lLnXlsaZgGzAie6Mnu24_PawYuDYIoH77pJ.X5Z.MqQPibUVTcjH7Y0zrFAw6OK32H4ByBTK3XKBmgscHXo2gFp5bhlVN_2j5USEr1ojAXV_HkZibE_DBPEVa6oyUNE0aatN_6hxbG_wxRAp4052wT07gd3.CTpUDBHzu3ksSk74S4QyAv.g_rrhi.VqtWPNDJM1OPrTy1QR5jEV7pbrjB3WxBbsE-&format=jpg");
+   background-repeat:no-repeat;
+  background-attachment: fixed;
+  color: #FFF;
+}
+html{
+  text-align: center
+
+}
+a{
+  color: black;
+}
+img{
+
+   width:300px;
+  height: 200px;
+  float: none;
+}
+.border{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.border .container{
+
+  margin: auto;
+  width: 80%;
+  border-style: double;
+  border-color: #FE9A2E;
+  border-width: 7px;
+}
+li{ background-color:#FE9A2E ;
+}
+a:hover {
+    color: orange;
+ }
