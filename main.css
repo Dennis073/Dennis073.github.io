@@ -1,8 +1,9 @@
 body{
   background-image: url("http://spidifacebase.webstarts.com/uploads/background.jpg");
-   background-repeat:no-repeat;
+   background-repeat:repeat;
   background-attachment: fixed;
   color: #FFF;
+  font-size:18px;
 }
 html{
   text-align: center
@@ -32,5 +33,5 @@ img{
 li{ background-color:#FE9A2E ;
 }
 a:hover {
-    color: orange;
+    color: blue;
  }
