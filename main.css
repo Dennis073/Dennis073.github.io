@@ -7,9 +7,15 @@ body{
 }
 html{
   text-align: center
-
-
 }
+
+h1{
+  font-weight:bold;
+  font-family: "Times New Roman", Georgia, Serif;
+  color:#000000;
+  
+}
+
 p{
   font-size: 48px;
   font-weight:bold;
