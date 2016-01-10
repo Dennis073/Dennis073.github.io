@@ -1,6 +1,6 @@
 body{
   background-image: url("http://spidifacebase.webstarts.com/uploads/background.jpg");
-   background-repeat:repeat;
+   background-repeat:no-repeat;
   background-attachment: fixed;
   color: #FFF;
   font-size:18px;
@@ -14,7 +14,7 @@ a{
 }
 img{
 
-   width:300px;
+   width:450px;
   height: 200px;
   float: none;
 }
