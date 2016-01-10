@@ -1,9 +1,9 @@
 body{
-  background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3f79cc27432009.56365071c5536.png");
+  background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/max_1900/3f79cc27432009.56365071c5536.png");
    background-repeat:no-repeat;
   background-attachment: fixed;
   color: #FFF;
-  Width: 140%;
+  
 }
 html{
   text-align: center
@@ -43,8 +43,27 @@ img{
   border-color: #FE9A2E;
   border-width: 7px;
 }
-li{ background-color:#FE9A2E ;
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
 }
-a:hover {
-    color: blue;
- }
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
