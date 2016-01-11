@@ -1,6 +1,9 @@
 body{
  color:#FFF;
-  
+ height:100%;
+   background: url(https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3f79cc27432009.56365071c5536.png) no-repeat center center;
+   background-size:cover;   
+   text-align:center 
 }
 html{
   height:100%;
